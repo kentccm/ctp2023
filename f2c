@@ -1,0 +1,4 @@
+fahrenheit = float(input("Enter Fahrenheit degree: "))
+celsius = (5/9) * (fahrenheit - 32)
+print ("Its celsius degree is: ")
+print(round(celsius,1))
